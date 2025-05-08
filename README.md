@@ -1,6 +1,6 @@
-# Cartel Científico de Ejemplo
+# Determinación de la distribución de anticuerpos contra el virus del PRRS en granjas sin vacunar por etapa productiva y densidad animal en Jalisco
 
-Este repositorio contiene un cartel científico de ejemplo, pensado para ilustrar cómo organizar, compartir y citar presentaciones académicas.
+Este repositorio contiene un cartel científico presentado en el congreso nacional AMVEC 2023 en Acapulco, Guerrero, México. El objetivo es mantener organizada la información geberada, compartir y pueda ser citado académicamente.
 
 ## Archivos
 
@@ -9,7 +9,7 @@ Este repositorio contiene un cartel científico de ejemplo, pensado para ilustra
 
 ## Autores
 
-- **Tu nombre aquí** ([GitHub profile](https://github.com/))
+- **Galindo-Barboza, Alberto Jorge** ([GitHub profile](https://github.com/aljogaba))
 
 ## Cita recomendada
 

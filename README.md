@@ -10,6 +10,7 @@ Este repositorio contiene un cartel científico presentado en el congreso nacion
 ## Autores
 
 - **Galindo-Barboza, Alberto Jorge** ([GitHub profile](https://github.com/aljogaba))
+- Affiliation: National Institute for Forestry, Agriculture and Livestock Research (INIFAP), Tepatitlán, Jalisco, Mexico
 
 ## Cita recomendada
 

@@ -5,7 +5,7 @@ Este repositorio contiene un cartel científico presentado en el congreso nacion
 ## Archivos
 
 - `GALINDO-BARBOZA et al. PRRS (Cartel).pdf`: Cartel en formato PDF.
-- `resumen_congreso_ejemplo.pdf`: Resumen enviado al comité organizador.
+- `GALINDO-BARBOZA et al. PRRS (Memorias AMVEC 2023).pdf`: Resumen enviado al comité organizador.
 
 ## Autores
 

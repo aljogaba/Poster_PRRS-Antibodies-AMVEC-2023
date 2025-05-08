@@ -1,6 +1,6 @@
 # Determinación de la distribución de anticuerpos contra el virus del PRRS en granjas sin vacunar por etapa productiva y densidad animal en Jalisco
 
-Este repositorio contiene un cartel científico presentado en el congreso nacional AMVEC 2023 en Acapulco, Guerrero, México. El objetivo es mantener organizada la información geberada, compartir y pueda ser citado académicamente.
+Este repositorio contiene un cartel científico presentado en el congreso nacional AMVEC 2023 en Acapulco, Guerrero, México. El objetivo es mantener organizada la información generada, compartir y pueda ser citado académicamente.
 
 ## Archivos
 

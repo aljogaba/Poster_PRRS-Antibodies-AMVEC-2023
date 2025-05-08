@@ -4,7 +4,7 @@ Este repositorio contiene un cartel científico presentado en el congreso nacion
 
 ## Archivos
 
-- `cartel_ejemplo.pdf`: Cartel en formato PDF.
+- `GALINDO-BARBOZA et al. PRRS (Cartel).pdf`: Cartel en formato PDF.
 - `resumen_congreso_ejemplo.pdf`: Resumen enviado al comité organizador.
 
 ## Autores
